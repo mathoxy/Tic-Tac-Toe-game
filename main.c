@@ -1,3 +1,6 @@
+/* This is a simple morpion game also known as tic-tac-toe. 
+    It uses the terminal as interface :) */
+
 #include <stdio.h>
 #include <conio.h>
 #include <stdbool.h>
