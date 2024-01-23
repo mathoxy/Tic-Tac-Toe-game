@@ -1,3 +1,7 @@
+""" Morpion game also know as tic-tac-toe. This program uses a random bot 
+    to figh a player """ 
+
+
 import random
 
 arr = [' ', ' ', ' ',' ', ' ', ' ', ' ', ' ', ' ', ' ']
