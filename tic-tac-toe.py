@@ -1,5 +1,5 @@
 """ Morpion game also know as tic-tac-toe. This program uses a random bot 
-    to figh the player :) """ 
+    to fight the player :) """ 
 
 
 import random
@@ -158,10 +158,3 @@ if i == 1:
         print("You lost")
 elif i == -1: 
     print("Game Over")
-
-
-
-
-        
-
-
