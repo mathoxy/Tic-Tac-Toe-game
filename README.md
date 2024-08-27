@@ -1,2 +1,2 @@
-# Morpion Game 
-## Morpion game also know as tic-tac-toe. This program uses a random bot to fight the player 😃😃😃
+# Tic-Tac-Toe Game 
+## This program uses a random bot to fight a player 😃😃😃
