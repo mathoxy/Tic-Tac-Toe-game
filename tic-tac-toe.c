@@ -1,4 +1,4 @@
-/* This is a simple morpion game also known as tic-tac-toe. 
+/* This is a simple tic-tac-toe game. 
     It uses the terminal as interface :) */
 
 #include <stdio.h>
